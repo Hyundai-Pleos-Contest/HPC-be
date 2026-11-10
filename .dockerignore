@@ -1,0 +1,13 @@
+.git
+.github
+.gradle
+.gradle-user-home
+build
+out
+.idea
+.vscode
+.env
+.env.*
+*.log
+*.jks
+*.keystore
